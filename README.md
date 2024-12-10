@@ -5,8 +5,8 @@
 
 
 ## 🌐 Socials:
-<a href="https://twitter.com/kaushalrajpuwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaushalraj-puwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushalraj-puwar" height="30" width="40" /></a>
+<a href="https://twitter.com/kaushalrajpuwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28545922/kaushalraj-puwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28545922/kaushalraj-puwar" height="30" width="40" /></a>
 <a href="https://instagram.com/kaushalrajpuwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
 </p>
