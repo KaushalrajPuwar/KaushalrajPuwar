@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushalraj Puwar</h1>
 
 ## 🏛️ About Me:
-🌱 I’m currently learning Docker<br><br>💬 Ask me about Node.js, Express.js, Linux, Python 3.X and Javascript<br><br>
+🌱 I’m currently learning Docker and Cloud Computing<br><br>💬 Ask me about Node.js, Express.js, Linux, Python 3.X and Javascript<br><br>
 
 
 ## 🌐 Socials:
