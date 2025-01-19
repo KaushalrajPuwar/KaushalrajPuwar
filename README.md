@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaushalraj Puwar</h1>
 
 ## 🏛️ About Me:
-🔭 I’m currently working on [Portfolio Website](https://github.com/KaushalrajPuwar/Portfolio)
+🔭 I’m currently working on [Portfolio Website](https://github.com/KaushalrajPuwar/kaushalrajpuwar.github.io)
 
 🌱 I’m currently learning **Docker and Cloud Computing**
 
