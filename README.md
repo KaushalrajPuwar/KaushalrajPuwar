@@ -13,7 +13,7 @@
 
 ## 🌐 Socials:
 <a href="https://linkedin.com/in/kaushalraj-puwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushalraj-puwar" height="30" width="40" /></a>
-<a href="https://twitter.com/kaushalrajpuwar" target="blank"><img align="center" src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
+<a href="https://x.com/kaushalrajpuwar" target="blank"><img align="center" src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/28545922/kaushalraj-puwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="28545922/kaushalraj-puwar" height="30" width="40" /></a>
 <a href="https://instagram.com/kaushalrajpuwar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
 <a href="https://kaushalrajpuwar.carrd.co/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>
