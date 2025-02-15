@@ -21,8 +21,8 @@
 
 ## 💻 Tech Stack:
 ![Lang](https://skillicons.dev/icons?i=js,c,cpp,java,py)<br>
-![WebDev](https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express,django,mongodb,mysql)<br>
-![DevOps](https://skillicons.dev/icons?i=linux,aws,docker,bash,git,latex)
+![WebDev](https://skillicons.dev/icons?i=html,css,react,nodejs,express,django,mongodb,mysql)<br>
+![DevOps](https://skillicons.dev/icons?i=linux,aws,docker)
 <br><br>
 
 ## 📊 GitHub Stats:
