@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kaushalraj Puwar</h1>
 
 ## 🏛️ About Me:
-🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://github.com/KaushalrajPuwar/kaushalrajpuwar.github.io" target="_blank">Portfolio Website</a>
+🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://www.ros.org" target="_blank">ROS 2</a>
 
-🌱 I’m currently learning **Docker and Cloud Computing**
+🌱 I’m currently learning **Docker and ROS 2**
 
-👨‍💻 All of my projects are available at <a href="https://www.rataalada.com/" target="blank"><- coming soon -></a>
+👨‍💻 All of my projects are available at <a href="https://www.rataalada.com/" target="blank"><- coming soon (development put on hold) -></a>
 
-💬 Ask me about **Linux, Javascript, AWS, Docker and Python3**
+💬 Ask me about **Python3, Javascript, Nodejs, Docker and ROS 2**
 <br><br>
 
 
@@ -22,7 +22,10 @@
 ## 💻 Tech Stack:
 ![Lang](https://skillicons.dev/icons?i=js,c,cpp,java,py)<br>
 ![WebDev](https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql)<br>
-![DevOps](https://skillicons.dev/icons?i=linux,aws,docker,git)
+![DevOps](https://skillicons.dev/icons?i=linux,aws,docker,git)<br>
+<a href="https://www.ros.org/" target="_blank">
+  <img src="https://logodix.com/logo/1656118.jpg" alt="ROS 2" height="40" style="border-radius: 8px;" />
+</a>
 <br><br>
 
 ## 📊 GitHub Stats:
