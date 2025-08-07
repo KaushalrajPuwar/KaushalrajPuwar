@@ -3,11 +3,11 @@
 ## 🏛️ About Me:
 🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://www.ros.org" target="_blank">ROS 2</a>
 
-🌱 I’m currently learning **Docker and ROS 2**
+🌱 I’m currently learning **AWS and ROS 2**
 
 👨‍💻 All of my projects are available at <a href="https://www.rataalada.com/" target="blank"><- coming soon (development put on hold) -></a>
 
-💬 Ask me about **Python3, Javascript, Nodejs, Docker and ROS 2**
+💬 Ask me about **Python3, Javascript, AWS, Docker and ROS 2**
 <br><br>
 
 
