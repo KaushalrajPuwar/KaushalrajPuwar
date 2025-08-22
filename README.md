@@ -8,6 +8,8 @@
 👨‍💻 All of my projects are available at <a href="https://www.rataalada.com/" target="blank"><- coming soon (development put on hold) -></a>
 
 💬 Ask me about **Python3, Javascript, AWS, Docker and ROS 2**
+
+📞 Reach me at <a href="mailto:kaushalrajpuwar@gmail.com" target="blank"> kaushalrajpuwar@gmail.com </a>
 <br><br>
 
 
