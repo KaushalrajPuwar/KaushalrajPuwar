@@ -5,7 +5,7 @@
 
 🌱 I’m currently learning **AWS and ROS 2**
 
-👨‍💻 All of my projects are available at my <a href="https://kaushalrajpuwar.github.io/" target="blank">Portfolio</a>
+👨‍💻 All of my work is available at my <a href="https://kaushalrajpuwar.github.io/" target="blank">Portfolio</a>
 
 💬 Ask me about **Python3, Javascript, AWS, Docker and ROS 2**
 
