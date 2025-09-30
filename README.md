@@ -36,10 +36,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalrajpuwar&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kaushalrajpuwar&theme=nord&no-frame=true&no-bg=false&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=kaushalrajpuwar&icon=5&color=3)](https://visitcount.itsvg.in)
-
-
+![Profile Views](https://komarev.com/ghpvc/?username=kaushalrajpuwar&label=Profile%20views&color=0e75b6&style=flat)
+##
+&copy; 2025 Kaushalraj Puwar | Made with ❤️ using GitHub
