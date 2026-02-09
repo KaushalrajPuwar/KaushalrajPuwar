@@ -17,10 +17,17 @@
 
 
 ## 🌐 Socials
-<a onclick="window.open(this.href,'_blank');return false;" href="https://linkedin.com/in/kaushalrajpuwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushalraj-puwar" height="30" width="40" /></a>
-<a onclick="window.open(this.href,'_blank');return false;" href="https://x.com/kaushalrajpuwar" target="_blank"><img align="center" src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
-<a onclick="window.open(this.href,'_blank');return false;" href="https://instagram.com/kaushalrajpuwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
-<a onclick="window.open(this.href,'_blank');return false;" href="https://kaushalrajpuwar.github.io/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>
+<a onclick="window.open(this.href,'_blank');return false;" href="https://linkedin.com/in/kaushalrajpuwar" target="_blank">
+  <img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+</a>&nbsp;&nbsp;
+<a onclick="window.open(this.href,'_blank');return false;" href="https://x.com/KaushalrajPuwar" target="_blank">
+  <img align="center" src="https://cdn.simpleicons.org/x/ffffff
+" alt="X" height="30" width="40" />
+</a>&nbsp;&nbsp;
+<a onclick="window.open(this.href,'_blank');return false;" href="https://www.instagram.com/kaushalrajpuwar/" target="_blank">
+  <img align="center" src="assets/insta.svg" alt="Instagram" height="30" width="40" />
+</a>&nbsp;&nbsp;
+<!--<a onclick="window.open(this.href,'_blank');return false;" href="https://kaushalrajpuwar.github.io/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>-->
 <br><br>
 
 ## 💻 Tech Stack
