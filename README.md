@@ -3,8 +3,6 @@
   <img src="assets/cool.gif" width="900" height="300"/>
 </p>
 -->
-<h1 align="center">Hi 👋, I'm Kaushalraj Puwar</h1>
-
 ## 🏛️ About Me:
 🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://www.ros.org" target="_blank">ROS 2</a>
 
