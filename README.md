@@ -17,21 +17,10 @@
 
 
 ## 🌐 Socials
-<p align="left">
-  <a href="https://linkedin.com/in/kaushalrajpuwar" target="_blank">
-    <img src="assets/linkedin.svg" alt="LinkedIn" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/KaushalrajPuwar" target="_blank">
-    <img src="assets/x.svg" alt="X" height="40" width="40" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/kaushalrajpuwar/" target="_blank">
-    <img src="assets/instagram.svg" alt="Instagram" height="40" width="40" />
-  </a>
-</p>
+<a onclick="window.open(this.href,'_blank');return false;" href="https://linkedin.com/in/kaushalrajpuwar" target="_blank"><img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="45" width="45" /></a>&nbsp;&nbsp;
+<a onclick="window.open(this.href,'_blank');return false;" href="https://x.com/kaushalrajpuwar" target="_blank"><img align="center" src="assets/x.svg" alt="X" height="35" width="35" /></a>&nbsp;&nbsp;
+<a onclick="window.open(this.href,'_blank');return false;" href="https://instagram.com/kaushalrajpuwar" target="_blank"><img align="center" src="assets/instagram.svg" alt="Instagram" height="40" width="40" /></a>&nbsp;&nbsp;
 <!--<a onclick="window.open(this.href,'_blank');return false;" href="https://kaushalrajpuwar.github.io/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>-->
-<br><br>
 
 ## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-20232A.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) <br>
