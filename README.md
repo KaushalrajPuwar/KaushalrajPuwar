@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/cool.gif" width="900" />
+</p>
 <h1 align="center">Hi 👋, I'm Kaushalraj Puwar</h1>
 
 ## 🏛️ About Me:
