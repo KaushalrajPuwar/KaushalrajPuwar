@@ -17,9 +17,9 @@
 
 
 ## 🌐 Socials
-<a onclick="window.open(this.href,'_blank');return false;" href="https://linkedin.com/in/kaushalrajpuwar" target="_blank"><img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="45" width="45" /></a>&nbsp;&nbsp;
-<a onclick="window.open(this.href,'_blank');return false;" href="https://x.com/kaushalrajpuwar" target="_blank"><img align="center" src="assets/x.svg" alt="X" height="35" width="35" /></a>&nbsp;&nbsp;
-<a onclick="window.open(this.href,'_blank');return false;" href="https://instagram.com/kaushalrajpuwar" target="_blank"><img align="center" src="assets/instagram.svg" alt="Instagram" height="40" width="40" /></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/kaushalrajpuwar" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="45" width="45" /></a>&nbsp;&nbsp;
+<a href="https://x.com/kaushalrajpuwar" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/x.svg" alt="X" height="35" width="35" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/kaushalrajpuwar" target="_blank" rel="noopener noreferrer"><img align="center" src="assets/instagram.svg" alt="Instagram" height="40" width="40" /></a>&nbsp;&nbsp;
 <!--<a onclick="window.open(this.href,'_blank');return false;" href="https://kaushalrajpuwar.github.io/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>-->
 
 ## 💻 Tech Stack
