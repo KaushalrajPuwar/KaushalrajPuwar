@@ -21,11 +21,10 @@
   <img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
 </a>&nbsp;&nbsp;
 <a onclick="window.open(this.href,'_blank');return false;" href="https://x.com/KaushalrajPuwar" target="_blank">
-  <img align="center" src="https://cdn.simpleicons.org/x/ffffff
-" alt="X" height="30" width="40" />
+  <img align="center" src="assets/x.svg" alt="X" height="30" width="40" />
 </a>&nbsp;&nbsp;
 <a onclick="window.open(this.href,'_blank');return false;" href="https://www.instagram.com/kaushalrajpuwar/" target="_blank">
-  <img align="center" src="assets/insta.svg" alt="Instagram" height="30" width="40" />
+  <img align="center" src="assets/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>&nbsp;&nbsp;
 <!--<a onclick="window.open(this.href,'_blank');return false;" href="https://kaushalrajpuwar.github.io/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>-->
 <br><br>
