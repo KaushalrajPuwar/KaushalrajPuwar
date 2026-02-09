@@ -36,7 +36,6 @@
 -->
 
 ## 📊 GitHub Stats
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaushalrajpuwar&theme=gotham)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaushalrajPuwar&theme=gotham&hide_border=true)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalrajpuwar&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)-->
 <br>
