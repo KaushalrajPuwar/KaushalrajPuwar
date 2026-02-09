@@ -3,7 +3,7 @@
   <img src="assets/cool.gif" width="900" height="300"/>
 </p>
 -->
-## 🏛️ About Me:
+## 🏛️ About Me
 🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://www.ros.org" target="_blank">ROS 2</a>
 
 🌱 I’m currently exploring **AWS, RAG and ROS 2**
@@ -16,14 +16,14 @@
 <br><br>
 
 
-## 🌐 Socials:
+## 🌐 Socials
 <a onclick="window.open(this.href,'_blank');return false;" href="https://linkedin.com/in/kaushalrajpuwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaushalraj-puwar" height="30" width="40" /></a>
 <a onclick="window.open(this.href,'_blank');return false;" href="https://x.com/kaushalrajpuwar" target="_blank"><img align="center" src="https://gist.githubusercontent.com/IgnaceMaes/744cd9cf41ec6acf46fc8f4e9f370f86/raw/d16658c2945d30c8a953b35cb17dd7085111b46c/x-logo.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
 <a onclick="window.open(this.href,'_blank');return false;" href="https://instagram.com/kaushalrajpuwar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushalrajpuwar" height="30" width="40" /></a>
 <a onclick="window.open(this.href,'_blank');return false;" href="https://kaushalrajpuwar.github.io/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>
 <br><br>
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-20232A.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white) <br>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![HuggingFace](https://img.shields.io/badge/huggingface-20232A.svg?style=for-the-badge&logo=huggingface&logoColor=FFD21E) <br> ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![ROS](https://img.shields.io/badge/ros-20232A.svg?style=for-the-badge&logo=ros&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) <br>
 ![React](https://img.shields.io/badge/react-20232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-20232A.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -36,7 +36,7 @@
 <br><br>
 -->
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaushalrajPuwar&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushalrajpuwar&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 <br>
