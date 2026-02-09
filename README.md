@@ -17,15 +17,19 @@
 
 
 ## 🌐 Socials
-<a onclick="window.open(this.href,'_blank');return false;" href="https://linkedin.com/in/kaushalrajpuwar" target="_blank">
-  <img align="center" src="assets/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-</a>&nbsp;&nbsp;
-<a onclick="window.open(this.href,'_blank');return false;" href="https://x.com/KaushalrajPuwar" target="_blank">
-  <img align="center" src="assets/x.svg" alt="X" height="30" width="40" />
-</a>&nbsp;&nbsp;
-<a onclick="window.open(this.href,'_blank');return false;" href="https://www.instagram.com/kaushalrajpuwar/" target="_blank">
-  <img align="center" src="assets/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>&nbsp;&nbsp;
+<p align="left">
+  <a href="https://linkedin.com/in/kaushalrajpuwar" target="_blank">
+    <img src="assets/linkedin.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/KaushalrajPuwar" target="_blank">
+    <img src="assets/x.svg" alt="X" height="40" width="40" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/kaushalrajpuwar/" target="_blank">
+    <img src="assets/instagram.svg" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
 <!--<a onclick="window.open(this.href,'_blank');return false;" href="https://kaushalrajpuwar.github.io/" target="_blank"><img align="center" src="https://img.icons8.com/?size=100&id=u6SGklrDSZ3b&format=png&color=FFFFFF" alt="kaushalrajpuwar" height="40" width="40" /></a>-->
 <br><br>
 
