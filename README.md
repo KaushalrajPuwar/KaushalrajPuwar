@@ -43,4 +43,4 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kaushalrajpuwar&label=Profile%20views&color=0e75b6&style=flat)
 ##
-&copy; 2025 Kaushalraj Puwar | Made with ❤️ using GitHub
+Kaushalraj Puwar | Made with ❤️ using GitHub
