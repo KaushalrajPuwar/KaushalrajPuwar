@@ -8,7 +8,7 @@
 
 🌱 I’m currently exploring **AWS, RAG and ROS 2**
 
-👨‍💻 All of my work is available at my <a href="https://kaushalrajpuwar.github.io/" target="blank">Website</a>
+👨‍💻 All of my work is available at my <a href="https://kaushalrajpuwar.vercel.app/" target="blank">Website</a>
 
 💬 Ask me about **RAG, Transformers, AWS, Docker and ROS 2**
 
