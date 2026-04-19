@@ -4,13 +4,13 @@
 </p>
 -->
 ## 🏛️ About Me
-🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://www.ros.org" target="_blank">ROS 2</a>
+🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://ml-gsai.github.io/LLaDA-demo/" target="_blank">Diffusion LLMs</a>
 
-🌱 I’m currently exploring **AWS, RAG and ROS 2**
+🌱 I’m currently exploring **Diffusion, Quantization and ROS 2**
 
 👨‍💻 All of my work is available at my <a href="https://kaushalrajpuwar.vercel.app/" target="blank">Website</a>
 
-💬 Ask me about **RAG, Transformers, AWS, Docker and ROS 2**
+💬 Ask me about **Transformers, Docker and ROS 2**
 
 📞 Reach me at <a href="mailto:kaushalrajpuwar@gmail.com" target="blank"> kaushalrajpuwar@gmail.com </a>
 <br><br>
