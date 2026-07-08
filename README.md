@@ -6,11 +6,11 @@
 ## 🏛️ About Me
 🔭 I’m currently working on <a onclick="window.open(this.href,'_blank');return false;" href="https://ml-gsai.github.io/LLaDA-demo/" target="_blank">Diffusion LLMs</a>
 
-🌱 I’m currently exploring **Diffusion, Quantization and ROS 2**
+🌱 I’m currently exploring **Diffusion, Quantization and Agents**
 
 👨‍💻 All of my work is available at my <a href="https://kaushalrajpuwar.vercel.app/" target="blank">Website</a>
 
-💬 Ask me about **Transformers, Docker and ROS 2**
+💬 Ask me about **Transformers, Docker and Agents**
 
 📞 Reach me at <a href="mailto:kaushalrajpuwar@gmail.com" target="blank"> kaushalrajpuwar@gmail.com </a>
 <br><br>
